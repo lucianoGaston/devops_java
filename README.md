@@ -1,2 +1,3 @@
 # devops_java
 probando la integración de jenkins con github, aplicado aproyectos java
+ADEMAS, ESTOY POR  POR  PROBAR EL COMANDO "MVN PACKAGE" AUTOMATICO EN MAVEN...
